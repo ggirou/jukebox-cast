@@ -1,0 +1,2 @@
+PyChromecast>=2.3.0
+Click>=7.0
